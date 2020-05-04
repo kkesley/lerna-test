@@ -1,6 +1,7 @@
 {
   "version": "0.0.6",
   "license": "MIT",
+  "private": false,
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
@@ -57,5 +58,5 @@
     "tslib": "^1.11.1",
     "typescript": "^3.8.3"
   },
-  "gitHead": "db5307a5168b8fb96d50752a767fdf9d1a697ec6"
+  "gitHead": "4e0f12537a0cc21364bcceca56c2ff0980e89fde"
 }
