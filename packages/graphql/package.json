@@ -1,6 +1,9 @@
 {
   "version": "0.0.7",
   "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -38,5 +41,5 @@
     "tslib": "^1.11.1",
     "typescript": "^3.8.3"
   },
-  "gitHead": "4e0f12537a0cc21364bcceca56c2ff0980e89fde"
+  "gitHead": "f4710ec4793d3c5f8670e824e28a1761dcede8af"
 }
