@@ -37,7 +37,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@kkesley/ui",
+  "name": "@lerna-test/ui",
   "author": "kkesley",
   "module": "dist/ui.esm.js",
   "devDependencies": {
