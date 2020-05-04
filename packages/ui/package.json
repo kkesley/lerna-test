@@ -33,7 +33,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@lerna-test/ui",
+  "name": "@kkesley/ui",
   "author": "kkesley",
   "module": "dist/ui.esm.js",
   "devDependencies": {
@@ -57,5 +57,5 @@
     "tslib": "^1.11.1",
     "typescript": "^3.8.3"
   },
-  "gitHead": "5589e8b4919546f0e257cf761a4a2876e9badce5"
+  "gitHead": "db5307a5168b8fb96d50752a767fdf9d1a697ec6"
 }
